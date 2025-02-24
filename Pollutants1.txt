@@ -1,0 +1,304 @@
+Guidelines on exposure levels for indoor air are
+needed because indoor air is a significant source
+of benzene exposure and inhalation is the main
+pathway of human exposure to benzene. Benzene is
+present in both outdoor and indoor air. However,
+indoor concentrations are generally higher than
+those in outdoor air owing to the infiltration
+of benzene present in outdoor air and to the
+existence of many other indoor sources. Typically,
+indoor concentrations are below the lowest levels
+showing evidence of adverse health effects.
+Considering that benzene is present indoors and
+considering personal exposure patterns, which are
+predominantly indoors, indoor guidelines for
+exposure are needed. Benzene is a genotoxic
+carcinogen in humans and no safe level of
+exposure can be recommended. The risk of toxicity
+from inhaled benzene would be the same whether
+the exposure was indoors or outdoors. Thus, there
+is no reason that the guidelines for indoor air
+should differ from ambient air guidelines. It is
+also recommended we continue to use the same
+unit risk factors. Long-term exposure to benzene
+has been linked to leukemia and other blood
+disorders, making it a significant indoor air
+concern, particularly in homes with poor
+ventilation or in areas near industrial sites.
+Exposure to carbon monoxide reduces maximum
+exercise ability in healthy young individuals
+and reduces the time to angina and, in some
+cases, the time to ST-segment depression in
+people with cardiovascular disease, albeit at a
+concentration that is lower than that needed to
+reduce exercise ability in healthy individuals.
+The relationship of carbon monoxide exposure and
+the carboxyhemoglobin (COHb) concentration in
+blood can be modelled using the differential
+Coburn-Forster-Kane equation, which provides a
+good approximation to the COHb concentration at
+a steady level of inhaled, exogenous carbon
+monoxide. Based on laboratory studies of
+reduction in exercise capacity in both healthy
+individuals and volunteers with cardiovascular
+disease, it was determined that COHb levels
+should not exceed 2%. Carbon monoxide is
+particularly hazardous in enclosed spaces with
+poor ventilation, such as garages, kitchens with
+unvented stoves, and rooms with improperly
+maintained heating appliances. Chronic exposure
+to low levels of carbon monoxide has been linked
+to neurological impairments, including memory
+loss, decreased concentration, and increased
+risk of cardiovascular disease. Infants, pregnant
+women, and elderly individuals are particularly
+vulnerable to carbon monoxide poisoning, which
+can result in long-term cognitive deficits and
+even fatality in severe cases.
+An indoor air guideline for formaldehyde is
+appropriate because indoor exposures are the
+dominant contributor to personal exposures
+through inhalation, and indoor concentrations
+may be high enough to cause adverse health
+effects. The lowest concentration reported to
+cause sensory irritation of the eyes in humans
+is 0.36 mg/m3 for four hours. Increases in eye
+blink frequency and conjunctival redness appear
+at 0.6 mg/m3, which is considered equal to the
+no observed adverse effect level (NOAEL). There
+is no indication of accumulation of effects over
+time with prolonged exposure. The perception of
+odor may result in some individuals reporting
+subjective sensory irritation, and individuals
+may perceive formaldehyde at concentrations
+below 0.1 mg/m3. However, this is not considered
+to be an adverse health effect. Formaldehyde is
+also known to contribute to respiratory issues
+such as asthma exacerbation, chronic bronchitis,
+and even lung function impairment at elevated
+concentrations. Chronic exposure has been
+associated with an increased risk of
+nasopharyngeal cancer and other upper
+respiratory tract diseases.
+The principal health concerns of exposure to
+naphthalene are respiratory tract lesions,
+including tumors in the upper respiratory tract
+demonstrated in animal studies and hemolytic
+anemia in humans. Lesions in the nasal olfactory
+and, at higher concentrations, also in the
+respiratory epithelia of rats appear to be the
+critical non-neoplastic effect. At concentrations
+about 100-fold higher than the lowest lesion
+level, severe inflammation and tumors have been
+reported to occur at these sites. Increased cell
+proliferation due to cytotoxicity (cell damage)
+is considered a key element in the development
+of airway tumors. The likely involvement of
+cytotoxic metabolites in the carcinogenic
+response and the apparent primary
+non-genotoxicity of naphthalene favor the
+assumption of the existence of a threshold.
+Therefore, the use of a lowest observed adverse
+effect level (LOAEL)/NOAEL as a threshold,
+combined with safety factors, is an appropriate
+approach for setting indoor air guidelines to
+minimize the carcinogenic risk to the
+respiratory tract of naphthalene exposure.
+Exposure to naphthalene has also been linked to
+neurological symptoms such as dizziness,
+headaches, and nausea, particularly in
+individuals exposed in enclosed areas over
+extended periods.
+A 1-hour indoor nitrogen dioxide guideline of
+200 μg/m3, consistent with the existing WHO air
+quality guideline, is recommended. At about
+twice this level, asthmatics exhibit small
+pulmonary function decrements. Those who are
+sensitized may have small changes in airway
+responsiveness to a variety of stimuli already
+at this level. Studies of the indoor environment
+provide no evidence for an indoor guideline
+different to the ambient guideline. An annual
+average indoor nitrogen dioxide guideline of 40
+μg/m3, consistent with the existing WHO air
+quality guideline, is recommended. Chronic
+exposure to nitrogen dioxide has been linked to
+increased rates of respiratory infections,
+exacerbation of asthma, and reduced lung
+function growth in children. High concentrations
+of nitrogen dioxide in indoor environments,
+often resulting from gas stoves and unvented
+heaters, can significantly worsen symptoms in
+individuals with preexisting lung diseases such
+as COPD.
+Overall, maintaining low levels of these
+hazardous substances in indoor air is critical
+for public health. Adequate ventilation, proper
+maintenance of appliances, and regular
+monitoring of air quality can significantly
+reduce exposure risks and improve indoor
+environmental health. Technologies such as
+activated carbon filters, air purifiers with
+HEPA filters, and improved building materials
+with low emissions can aid in minimizing indoor
+air pollution. Public awareness and policy
+interventions remain crucial to ensuring safer
+indoor air quality standards.
+Guidelines on exposure levels for indoor air are needed because 
+indoor air is a significant source of benzene exposure and 
+inhalation is the main pathway of human exposure to benzene. 
+Benzene is present in both outdoor and indoor air. However, 
+indoor concentrations are generally higher than those in outdoor 
+air owing to the infiltration of benzene present in outdoor air 
+and to the existence of many other indoor sources. Typically, 
+indoor concentrations are below the lowest levels showing evidence 
+of adverse health effects. Considering that benzene is present 
+indoors and considering personal exposure patterns, which are 
+predominantly indoors, indoor guidelines for exposure are needed. 
+Benzene is a genotoxic carcinogen in humans and no safe level of 
+exposure can be recommended. The risk of toxicity from inhaled 
+benzene would be the same whether the exposure was indoors or 
+outdoors. Thus, there is no reason that the guidelines for indoor 
+air should differ from ambient air guidelines. It is also recommended 
+we continue to use the same unit risk factors. Exposure to carbon 
+monoxide reduces maximum exercise ability in healthy young individuals 
+and reduces the time to angina and, in some cases, the time to ST-segment 
+depression in people with cardiovascular disease, albeit at a 
+concentration that is lower than that needed to reduce exercise 
+ability in healthy individuals. The relationship of carbon monoxide 
+exposure and the carboxyhaemoglobin (COHb) concentration in blood can 
+be modelled using the differential CoburnForster-Kane equation, which 
+provides a good approximation to the COHb concentration at a steady level 
+of inhaled, exogenous carbon monoxide. Based on laboratory studies of 
+reduction in exercise capacity in both healthy individuals and volunteers 
+with cardiovascular disease, it was determined that COHb levels should not 
+exceed 2%. The Coburn-Forster-Kane equation is used below to determine 
+the levels of carbon monoxide to which a normal adult under resting 
+conditions for various intervals can be exposed without exceeding a 
+COHb level of 2%. The previous WHO guidelines were established for 
+15 minutes to protect against short-term peak exposures that might 
+occur from, for example, an unvented stove; for 1 hour to protect against 
+excess exposure from, for example, faulty appliances; and for 8 hours 
+(which is relevant to occupational exposures and has been used as an averaging 
+time for ambient exposures). We do not recommend changing the existing guidelines. 
+An indoor air guideline for formaldehyde is appropriate because indoor exposures 
+are the dominant contributor to personal exposures through inhalation and indoor 
+concentrations may be high enough to cause adverse health effects. The lowest 
+concentration reported to cause sensory irritation of the eyes in humans is 
+0.36 mg/m3 for four hours. Increases in eye blink frequency and conjunctival 
+redness appear at 0.6 mg/m3, which is considered equal to the no observed adverse 
+effect level (NOAEL). There is no indication of accumulation of effects over time 
+with prolonged exposure. The perception of odour may result in some individuals 
+reporting subjective sensory irritation, and individuals may perceive formaldehyde 
+at concentrations below 0.1 mg/m3. However, this is not considered to be an adverse 
+health effect. The NOAEL of 0.6 mg/m3 for the eye blink response is adjusted using 
+an assessment factor of 5 derived from the standard deviation of nasal pungency 
+(sensory irritation) thresholds, leading to a value of 0.12 mg/m3, which has been 
+rounded down to 0.1 mg/m3. Neither increased sensitivity nor sensitization is 
+considered plausible at such indoor concentrations in adults and children. 
+This value is thus considered valid for short-term (30-minute) duration, and this 
+threshold should not be exceeded at any 30-minute interval during a day. The principal 
+health concerns of exposure to naphthalene are respiratory tract lesions, including 
+tumours in the upper respiratory tract demonstrated in animal studies and haemolytic 
+anaemia in humans. Lesions in the nasal olfactory and, at higher concentrations, 
+also in the respiratory epithelia of rats appear to be the critical non neoplastic 
+effect. At concentrations about 100-fold higher than the lowest lesion level, 
+severe inflammation and tumours have been reported to occur at these sites. 
+Increased cell proliferation due to cytotoxicity (cell damage) is considered 
+a key element in the development of airway tumours. The likely involvement 
+of cytotoxic metabolites in the carcinogenic response and the apparent 
+primary nongenotoxicity of naphthalene favour the assumption of the existence 
+of a threshold. Therefore, the use of a lowest observed adverse effect level 
+(LOAEL)/NOAEL as a threshold, combined with safety factors, is an appropriate 
+approach for setting indoor air guidelines to minimize the carcinogenic risk to 
+the respiratory tract of naphthalene exposure. A 1-hour indoor nitrogen dioxide 
+guideline of 200 μg/m3, consistent with the existing WHO air quality guideline, 
+is recommended. At about twice this level, asthmatics exhibit small pulmonary 
+function decrements. Those who are sensitized may have small changes in airway 
+responsiveness to a variety of stimuli already at this level. Studies of the 
+indoor environment provide no evidence for an indoor guideline different to the 
+ambient guideline. An annual average indoor nitrogen dioxide guideline of 40 μg/m3, 
+consistent with the existing WHO air quality guideline, is recommended. The ambient 
+annual average guideline of 40 μg/m3 was initially based on a meta-analysis of indoor 
+studies. It was assumed that having a gas stove was equivalent to an increased average 
+indoor level of 28 μg/m3 compared to homes with electric stoves, and the meta-analysis 
+showed that an increase in indoor nitrogen dioxide of 28 μg/m3 was associated with a 20%
+increased risk of lower respiratory illness in children. Homes with no indoor sources 
+were estimated to have an average level of 15 μg/m3. Several exhaustive reviews to further 
+develop ambient guidelines have not challenged these findings. Recent well-conducted 
+epidemiological studies that have used measured indoor nitrogen dioxide levels support 
+the occurrence of respiratory health effects at the level of the guideline. Some polycyclic 
+aromatic hydrocarbons (PAHs) are potent carcinogens and, in air, are typically
+attached to particles. The primary exposure to carcinogenic PAHs found in air 
+occurs via inhalation of particles. PAHs occur in indoor air as complex mixtures, 
+the composition of which may vary from site to site. Experimental data on metabolism, 
+gene expression and DNA adducts suggest that interactions between PAHs in mixtures 
+may be complex and highly unpredictable for various PAH compositions 
+(inhibitory, additive, synergistic). In view of the difficulties in developing 
+guidelines for PAH mixtures, benzo[a] pyrene (B[a]P) was considered to represent 
+the best single indicator compound. Its toxicology is best known, most single PAH 
+concentration data in ambient and indoor air are for B[a]P, and B[a]P has widely been 
+used as an indicator compound for exposure in epidemiological studies. The health 
+evaluation data suggest that lung cancer is the most serious health risk from 
+exposure to PAHs in indoor air. B[a]P is one of the most potent carcinogens 
+among the known PAHs. In its evaluation of PAHs as ambient air pollutants in 
+2000, WHO expressed a unit cancer risk as a function of the concentration of 
+B[a]P taken as a marker of the PAH mixture. Use of the same unit risk factor 
+for indoor air implies that B[a]P represents the same proportion of carcinogenic 
+activity of the PAH mixture as in the occupational exposure used to derive the 
+unit risk. This assumption will not always hold, but the associated uncertainties 
+in risk estimates are unlikely to be large. Radon is classified by the International 
+Agency for Research on Cancer as a human carcinogen (Group I). 
+There is direct evidence from residential epidemiological studies of the lung cancer 
+risk from radon. The exposure–response relationship is best described as being 
+linear, without a threshold. The excess relative risk, based on long-term 
+(30-year) average radon exposure is about 16% per increase of 100 Bq/m3, and 
+on this relative scale does not vary appreciably between current smokers, 
+ex-smokers and lifelong non-smokers. Therefore, as the absolute risk of 
+lung cancer at any given radon concentration is much higher in current 
+smokers than in lifelong non-smokers, the absolute risk of lung cancer 
+due to radon is appreciably higher for current and ex-smokers than for 
+lifelong non-smokers. For ex-smokers, the absolute risks will be between
+those for lifelong non-smokers and current smokers. The cumulative risk 
+of death from radon-induced lung cancer was calculated for lifelong 
+non-smokers and for current smokers (15–24 cigarettes per day). The 
+derived excess lifetime risks (by the age of 75 years) are 0.6 × 10–5
+per Bq/m3 and 15 × 10–5 per Bq/m3, respectively. Among ex-smokers, the
+risk is intermediate, depending on the time since smoking cessation. 
+The radon concentration associated with an excess lifetime risk of 1 
+per 100 and 1 per 1000 are 67 Bq/m3 and 6.7 Bq/m3 for current smokers
+and 1670 Bq/m3 and 167 Bq/m3 for lifelong nonsmokers, respectively. 
+The existence of both positive and negative results has in the past 
+led risk assessors to different interpretations of trichloroethylene 
+(TCE) toxicity and to divergent estimates of human cancer risk. For a
+health risk evaluation, bearing in mind recent data on a mechanism of
+action that is not species-specific, the evidence for weak genotoxicity,
+and the consistency between certain cancers observed in animals and in 
+humans (in particular liver cancer), it is prudent to consider that the
+carcinogenicity in animals, the positive epidemiological studies and the
+plausibility of a human cancer risk leads to the recommendation of a 
+non-threshold approach with a risk estimate rather than a safe level. 
+Therefore, carcinogenicity (with the assumption of genotoxicity) is 
+selected as the endpoint for setting the guideline value. The unit 
+risk estimates of 4.3 × 10–7 (μg/m3)–1, derived on the basis of increased
+Leydig cell tumours (testicular tumours) in rats, is proposed as the indoor
+air quality guideline. This was also the conclusion of WHO in 2000, the 
+European Union in 2004 and the French Agency for Environmental and Occupational
+Health in 2009. The concentrations of airborne TCE associated with an excess 
+lifetime cancer risk of 1/10 000, 1/100 000 and 1/1 000 000 are respectively 
+230, 23 and 2.3 μg/m3. Carcinogenicity is not selected as the endpoint for 
+setting the guideline value for tetrachloroethylene, for three reasons: the
+epidemiological evidence is equivocal, the animal tumours detected are not 
+considered relevant to humans, and there are no indications that tetrachloroethylene
+is genotoxic. The derivation of a guideline value is at present based on two 
+non-neoplastic effects as the critical endpoint: impaired neurobehavioural 
+performance and early renal changes. Based on a long-term LOAEL for kidney 
+effects of 102 mg/m3 in dry cleaning workers, a guideline value of 0.25 mg/m3 
+has been calculated. In deriving this guideline value, the LOAEL is converted 
+to continuous exposure (divided by a factor of 4.2 (168/40)) and divided by an
+uncertainty factor of 100 (10 for use of a LOAEL and 10 for intra-species variation).
+Recognizing that some uncertainty in the LOAEL exists because the effects observed at
+this level are not clear-cut and because of fluctuations in exposure levels, an 
+alternative calculation was made based on the LOAEL in mice of 680 mg/m3 and 
+using an appropriate uncertainty factor of 1000. This calculation yields a 
+guideline value of 0.68 mg/m3
